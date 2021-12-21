@@ -17,7 +17,7 @@
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/XkDscpl.jpeg" />
+  <img src="https://i.imgur.com/XkDscpl.jpeg" />
 </p>
 
 -------
@@ -25,7 +25,7 @@
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@havok10/Wizard-Ser-Qr-test#index.js)
 
 ## `DEPLOY`
 
