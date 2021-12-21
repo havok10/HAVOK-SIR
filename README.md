@@ -1,4 +1,4 @@
-# Wizard-Ser
+# HAVOK-SER
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/1PWx69w.jpeg" width="200" height="200"/>
