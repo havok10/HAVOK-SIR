@@ -8,6 +8,15 @@
   <a href="https://wa.me/91628222055"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Wizard+Ser+Is+A+Modified+Version+Of;Eva+By+SudoAnirudh;We+Have+Cloned+The+Project+And+Added;Some+More+Things."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 
 ## ```HOW TO DEPLOY```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
@@ -55,6 +64,10 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 
 ## Developers
   <div align="center">
+  
+  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+----|
+   `Base, Bug Fixes, Modules`
 
   [![Anees](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/havok10)[`anees`](https://github.com/havok10)
 ----|
